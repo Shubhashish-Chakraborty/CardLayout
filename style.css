@@ -51,13 +51,31 @@ body {
 }
 
 
-
-
-
-
 .parent-box {
 
     display: flex;
     justify-content: center;
     
+}
+
+img {
+
+    width: 450px;
+
+    padding: 5px;
+
+    border-radius: 22px;
+    
+
+}
+
+.buttons {
+    display: inline-block;
+
+    border: 1px solid gray;
+    margin: 15px;
+    padding: 5px;
+
+    border-radius: 12px;
+
 }
